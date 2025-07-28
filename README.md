@@ -1,7 +1,7 @@
 # 📡 Signals and Systems Lab – CS2173
 
 Welcome to my Signals and Systems Lab repository! 🚀  
-This repo contains all my work from MATLAB, including assignments, experiments, and signal analysis completed as part of the **CS2173** course in **3rd semester, 2nd year at IIEST Shibpur**. Explore concepts like signal generation, system behavior, convolution, filtering, and more 📊⚙️📶
+This repo contains all my work from MATLAB, including assignments, experiments, and signal analysis completed as part of the **CS2173** course in **3rd semester, 2nd year at IIEST Shibpur**. Explore concepts like signal generation, system behaviour, convolution, filtering, and more 📊⚙️📶
 
 ---
 
