@@ -7,8 +7,9 @@ This repo contains all my work from MATLAB, including assignments, experiments, 
 
 ## 📁 Folder Structure
 
-1️⃣
-2️⃣
+- 1️⃣
+- 2️⃣
+- 
 
 ---
 
