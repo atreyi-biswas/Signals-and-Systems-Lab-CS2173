@@ -15,8 +15,9 @@ This repo contains all my work from MATLAB, including assignments, experiments, 
 
 ## 🛠 Tools Used
 
-- MATLAB 🧠  
-- Simulink ⚙️ 
+- MATLAB   
+- Simulink 
+- NI Multism
 
 ---
 
